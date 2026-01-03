@@ -70,5 +70,5 @@ This project demonstrates how classification algorithms can be used to assess cr
 It highlights real-world challenges such as identifying high-risk applicants while maintaining acceptable approval accuracy.
 
 👤 Author
-Sheldon
+Vandhitha
 Entry-Level AI & Machine Learning Enthusiast
